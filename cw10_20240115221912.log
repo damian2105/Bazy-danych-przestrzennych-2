@@ -1,0 +1,42 @@
+20240115222912 - Download Step - Started
+--2024-01-15 22:19:12--  http://home.agh.edu.pl/~wsarlej/dyd/bdp2/materialy/cw10/InternetSales_new.zip
+Resolving home.agh.edu.pl (home.agh.edu.pl)... 149.156.98.66, 2001:6d8:10:1127::6242
+Connecting to home.agh.edu.pl (home.agh.edu.pl)|149.156.98.66|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://home.agh.edu.pl/~wsarlej/dyd/bdp2/materialy/cw10/InternetSales_new.zip [following]
+--2024-01-15 22:19:14--  https://home.agh.edu.pl/~wsarlej/dyd/bdp2/materialy/cw10/InternetSales_new.zip
+Connecting to home.agh.edu.pl (home.agh.edu.pl)|149.156.98.66|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 77835 (76K) [application/zip]
+Saving to: ‘InternetSales_new.zip’
+
+     0K .......... .......... .......... .......... .......... 65% 15,4K 2s
+    50K .......... .......... ......                          100% 33,3K=4,0s
+
+2024-01-15 22:05:34 (18,8 KB/s) - ‘InternetSales_new.zip’ saved [77835/77835]
+
+20240115220534 - Download Step - Successful
+20240115220534 - Unzip Step - Started
+Archive:  InternetSales_new.zip
+replace InternetSales_new.txt? [y]es, [n]o, [A]ll, [N]one, [r]ename:   inflating: InternetSales_new.txt   
+20240115220556 - Unzip Step - Successful
+20240115220556 - Validating and transforming file...
+20240115220556 - Validation Step - Successful
+20240115220556 - Validating and transforming file...
+20240115220556 - Validation Step - Successful
+20240115220556 - MySQL Table Creation Step - Started
+20240115220556 - MySQL Table Creation Step - Started
+20240115220556 - MySQL Table Creation Step - Successful
+20240115220556 - MySQL Data Load Step - Started
+20240115220556 - MySQL Data Load Step - Successful
+20240115220556 - Move File Step - Started
+20240115220556 - Move File Step - Successful
+20240115220556 - Update SecretCode Step - Started
+20240115220559 - Update SecretCode Step - Successful
+20240115220559 - Export to csv Step - Started
+20240115220559 - Export to CSV Step - Successful
+20240115220559 - Compression Step - Started
+20240115220700 - Compression Step - Successful
+20240115220700 - Compression Step - Successful
+20240115220700 - Final Check - All Steps Completed Successfully
+20240115220700 - Final Check - All Steps Completed Successfully
